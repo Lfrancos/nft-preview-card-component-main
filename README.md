@@ -25,8 +25,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-<img src="./images/screenshot-01.png" style="display: block; width: 800px; margin: 0 auto; ">
+<img src="./images/Screenshot-01.png" style="display: block; width: 800px; margin: 0 auto; ">
 
 
 ### Links
