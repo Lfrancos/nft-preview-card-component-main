@@ -66,6 +66,8 @@ There are two things that are not working:
 ## Author
 
 - Website - [@lorenzo.francos](https://www.lorenzofrancos.com)
+- Instagram - [@lorenzo.francos](https://www.instagram.com/lorenzo.francos/?hl=en)
+- Github - [@Lfrancos](https://github.com/Lfrancos)
 - Frontend Mentor - [@Lfrancos](https://www.frontendmentor.io/profile/Lfrancos)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
 
