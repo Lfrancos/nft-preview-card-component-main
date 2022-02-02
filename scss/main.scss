@@ -8,6 +8,7 @@
 body {
     background-color: $veryDarkBlue;
     font-family: $font;
+    min-height: 100vh;
     // height: 100vh;
     display: flex;
     flex-direction: column;
@@ -17,3 +18,19 @@ img {
     width: 100%;
 }
 
+// .space {
+//     height: 20vh;;
+// }
+
+.attribution {
+    width: 100%;
+    color:  hsl(228, 45%, 44%);
+    font-size: 11px; text-align: center;
+    position: absolute;
+    bottom: .2rem;
+    text-align: center;
+
+    a {
+        color: white;
+    }
+}
